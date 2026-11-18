@@ -1,3 +1,6 @@
+## NAME : NAVEEN V
+## REG NO : 212225060181
+
 # FACTORIAL-OF-A-NUMBER
 # FACTORIAL OF A NUMBER USING 8051 (Keil)
 
@@ -54,12 +57,11 @@ END
 ```
 OUTPUT
 
-(Keil output screenshot can be inserted here)
+<img width="1024" height="572" alt="image" src="https://github.com/user-attachments/assets/9a0d1171-8e01-4279-9b41-b40f662022fc" />
+
 
 ---
-MANUAL CALCULATIONS
 
----
 
 RESULT
 
